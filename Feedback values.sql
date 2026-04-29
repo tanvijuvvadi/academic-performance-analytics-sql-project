@@ -1,0 +1,135 @@
+INSERT INTO Feedback VALUES
+(1,1,101,5,'Excellent teaching and clear explanations'),
+(2,2,102,4,'Good course with practical examples'),
+(3,3,103,5,'Very useful for career growth'),
+(4,4,104,3,'Average content but okay'),
+(5,5,105,2,'Needs improvement in teaching'),
+
+(6,6,106,5,'Concepts explained very clearly'),
+(7,7,107,4,'Good hands-on sessions'),
+(8,8,108,5,'Loved the visualization part'),
+(9,9,109,3,'Content is average'),
+(10,10,110,4,'Nice learning experience'),
+
+(11,11,111,5,'Very informative course'),
+(12,12,112,4,'Well structured curriculum'),
+(13,13,101,5,'Highly recommended'),
+(14,14,102,2,'Too fast-paced'),
+(15,15,103,3,'Needs more examples'),
+
+(16,16,104,5,'Great teaching style'),
+(17,17,105,4,'Good explanation of concepts'),
+(18,18,106,5,'Excellent clarity'),
+(19,19,107,2,'Not engaging enough'),
+(20,20,108,4,'Nice course overall'),
+
+(21,21,109,5,'Very useful insights'),
+(22,22,110,3,'Average experience'),
+(23,23,111,4,'Good but can improve'),
+(24,24,112,5,'Loved the course structure'),
+(25,25,101,1,'Very poor experience'),
+
+(26,26,102,4,'Good examples provided'),
+(27,27,103,5,'Excellent course'),
+(28,28,104,3,'Okayish content'),
+(29,29,105,4,'Good explanation'),
+(30,30,106,5,'Very helpful'),
+
+(31,31,107,2,'Needs better delivery'),
+(32,32,108,4,'Nice visuals'),
+(33,33,109,5,'Great for beginners'),
+(34,34,110,3,'Could be improved'),
+(35,35,111,4,'Good course'),
+
+(36,36,112,5,'Very well structured'),
+(37,37,101,4,'Helpful content'),
+(38,38,102,5,'Excellent learning'),
+(39,39,103,3,'Average pace'),
+(40,40,104,4,'Nice explanations'),
+
+(41,41,105,5,'Loved it'),
+(42,42,106,4,'Good clarity'),
+(43,43,107,3,'Not very engaging'),
+(44,44,108,5,'Very interactive'),
+(45,45,109,4,'Good insights'),
+
+(46,46,110,2,'Needs more examples'),
+(47,47,111,4,'Nice course'),
+(48,48,112,5,'Excellent teaching'),
+(49,49,101,3,'Okay course'),
+(50,50,102,4,'Good pace'),
+
+(51,51,103,5,'Very informative'),
+(52,52,104,4,'Nice learning'),
+(53,53,105,3,'Average'),
+(54,54,106,5,'Great explanations'),
+(55,55,107,4,'Good practical work'),
+
+(56,56,108,5,'Loved the content'),
+(57,57,109,2,'Not satisfied'),
+(58,58,110,4,'Good course'),
+(59,59,111,5,'Very helpful'),
+(60,60,112,3,'Average experience'),
+
+(61,61,101,4,'Nice teaching'),
+(62,62,102,5,'Excellent'),
+(63,63,103,4,'Good course'),
+(64,64,104,3,'Okay'),
+(65,65,105,5,'Very informative'),
+
+(66,66,106,4,'Clear concepts'),
+(67,67,107,2,'Needs improvement'),
+(68,68,108,5,'Very engaging'),
+(69,69,109,4,'Good'),
+(70,70,110,5,'Excellent'),
+
+(71,71,111,3,'Average'),
+(72,72,112,4,'Nice'),
+(73,73,101,5,'Great experience'),
+(74,74,102,4,'Good'),
+(75,75,103,5,'Highly useful'),
+
+(76,76,104,3,'Okay'),
+(77,77,105,4,'Good'),
+(78,78,106,5,'Excellent'),
+(79,79,107,2,'Needs better examples'),
+(80,80,108,4,'Nice visuals'),
+
+(81,81,109,5,'Great insights'),
+(82,82,110,4,'Good'),
+(83,83,111,3,'Average'),
+(84,84,112,5,'Excellent'),
+(85,85,101,4,'Nice'),
+
+(86,86,102,5,'Very good'),
+(87,87,103,4,'Good'),
+(88,88,104,3,'Average'),
+(89,89,105,5,'Excellent'),
+(90,90,106,4,'Nice'),
+
+(91,91,107,5,'Great'),
+(92,92,108,4,'Good'),
+(93,93,109,3,'Okay'),
+(94,94,110,5,'Excellent'),
+(95,95,111,4,'Good'),
+
+(96,96,112,5,'Highly recommended'),
+(97,97,101,4,'Nice'),
+(98,98,102,3,'Average'),
+(99,99,103,5,'Excellent'),
+(100,100,104,4,'Good'),
+
+(101,1,105,5,'Very useful'),
+(102,2,106,4,'Good explanation'),
+(103,3,107,3,'Average'),
+(104,4,108,5,'Loved it'),
+(105,5,109,4,'Nice'),
+
+(106,6,110,5,'Excellent'),
+(107,7,111,4,'Good'),
+(108,8,112,3,'Okay'),
+(109,9,101,5,'Very good'),
+(110,10,102,4,'Nice experience');
+
+
+select * from feedback;
